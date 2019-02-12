@@ -1,4 +1,4 @@
-[![dockeri.co](http://dockeri.co/image/phenompeople/nginx)](https://registry.hub.docker.com/phenompeople/nginx/)
+[![dockeri.co](http://dockeri.co/image/phenompeople/bert-server)](https://registry.hub.docker.com/phenompeople/bert-server/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Bert-Server 
