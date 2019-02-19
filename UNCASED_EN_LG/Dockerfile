@@ -11,6 +11,7 @@ ADD requirements.txt /
 RUN yum install -y -q unzip && \
 	pip3 install -r requirements.txt && \
     mkdir -p ${PROJECT_HOME}/models && \
+    mkdir -p ${PROJECT_HOME}/tmp && \
     mkdir -p ${PROJECT_HOME}/logs
 COPY start-server.sh ${PROJECT_HOME}/start-server.sh
 ADD https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-24_H-1024_A-16.zip ${PROJECT_HOME}/models
