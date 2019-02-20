@@ -9,8 +9,10 @@ Dockerfiles for building based Bert-server images.
 
 #### phenompeople/bert-server
 
-* **`latest`			([UNCASED_EN_LG/Dockerfile](https://bitbucket.org/phenompeople/kibana/src/master/6.5.0/Dockerfile))**
-* **`UNCASED_EN_LG` 	([UNCASED_ENG_LG/Dockerfile](https://bitbucket.org/phenompeople/kibana/src/master/6.5.0/Dockerfile))**
+* **`latest`			([UNCASED_EN_BASE/Dockerfile](https://bitbucket.org/phenompeople/bert-server/src/master/UNCASED_EN_BASE/Dockerfile))**
+* **`UNCASED_EN_BASE` 	([UNCASED_EN_BASE/Dockerfile](https://bitbucket.org/phenompeople/bert-server/src/master/UNCASED_EN_BASE/Dockerfile))**
+* **`UNCASED_EN_LG` 	([UNCASED_ENG_LG/Dockerfile](https://bitbucket.org/phenompeople/bert-server/src/master/UNCASED_EN_LG/Dockerfile))**
+* **`UNCASED_EN_LG-GPU` ([UNCASED_EN_LG-GPU/Dockerfile](https://bitbucket.org/phenompeople/bert-server/src/master/UNCASED_EN_LG-GPU/Dockerfile))**
 
 #### Pre-Requisites
 
